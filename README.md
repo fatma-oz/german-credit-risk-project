@@ -10,8 +10,6 @@
 
 *In the visualizations, the variables were crossed with each other and the relationships between them were observed.
 
-*Encoding, getdummies
-
 *The following models were created with the function called base_models;
   LogisticRegression,
   GaussianNB,
