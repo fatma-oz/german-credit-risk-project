@@ -1,4 +1,4 @@
-# german-credit-risk-project
+# german credit risk project
 
 *In this dataset, each entry represents a person receiving a loan from a bank. Each person is classified as a good or bad credit risk based on their qualifications.
 
